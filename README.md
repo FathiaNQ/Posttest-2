@@ -1,4 +1,4 @@
-# Posttest-2
+# Praktikum-APD
 Program Sederhana Operator Aritmatika
 
 # POSTTEST 2 APD

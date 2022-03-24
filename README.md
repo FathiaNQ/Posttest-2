@@ -1,7 +1,5 @@
 # Praktikum-APD
 
-# POSTTEST 3 APD
-
 Nama : Fathia Nuq Qamarina
 
 NIM : 2009106012
